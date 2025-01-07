@@ -1,4 +1,4 @@
-                                                                                             Olá, seja bem-vindo(a)!
+                                                                                       Olá, seja bem-vindo(a)!
 
 Me chamo Pâmela Eduarda Sant' Ana, e sou estudante do 3º ano do curso Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio pelo Colégio Técnico da UFMG (Coltec).
 
@@ -14,9 +14,9 @@ HTML e PHP
 
 Banco de Dados(MYSQL)
 
-Minha abordagem é pautada no desenvolvimento de soluções práticas e eficientes. Tenho uma paixão por resolver problemas complexos e transformar ideias em projetos concretos.
+Tenho uma paixão por resolver problemas complexos e transformar ideias em projetos concretos.
 
-Além disso, possuo um curso de iniciação em inglês (1 ano) com foco em conversação, o que me permite compreender materiais técnicos e colaborar em contextos multilíngues.
+Além disso, possuo um curso de iniciação em inglês (1 ano) com foco em conversação, o que me permite compreender materiais técnicos e colaborar em contextos multilíngues que irei aprimorar.
 
 O Que Busco
 
