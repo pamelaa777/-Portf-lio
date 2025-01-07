@@ -1,6 +1,6 @@
-                                                                                       Olá, seja bem-vindo(a)!
+Olá, seja bem-vindo(a)! 👋✨
 
-Me chamo Pâmela Eduarda Sant' Ana, e sou estudante do 3º ano do curso Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio pelo Colégio Técnico da UFMG (Coltec).
+Me chamo Pâmela Eduarda Sant' Ana, e sou estudante do 3º ano do curso Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio pelo Colégio Técnico da UFMG (Coltec). 🌐
 
 Sobre Mim
 
@@ -32,7 +32,7 @@ Vamos Criar Algo Juntos!
 
 Se você está procurando uma estudante técnica dedicada, com forte capacidade de aprendizado e paixão pela tecnologia, estou à disposição. Vamos construir um futuro inovador juntos!
 
-Entre em Contato
+Entre em Contato 📞🌐📧
 
 GitHub: https://github.com/pamelaa777
 
