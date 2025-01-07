@@ -36,7 +36,7 @@ Entre em Contato
 
 GitHub: https://github.com/pamelaa777
 
-LinkedIn: https://www.linkedin.com/in/p%C3%A2mela-p%C3%A2mela-9046b5343/
+LinkedIn: https://www.linkedin.com/in/p%C3%A2mela-sant-ana-9046b5343/
 
 Fique à vontade para entrar em contato. Estou ansiosa para conhecer novas oportunidades, colaborar em projetos inovadores e aprender com profissionais do mercado. Vamos criar algo extraordinário juntos!
 
