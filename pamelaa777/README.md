@@ -4,15 +4,7 @@ Me chamo Pâmela Eduarda Sant' Ana, e sou estudante do 3º ano do curso Técnico
 
 Sobre Mim
 
-Sou uma jovem entusiasta da tecnologia, com uma base sólida em programação e eletrônica, adquirida por meio de uma formação técnica abrangente. Durante minha jornada no Coltec, desenvolvi habilidades em diversas linguagens e ferramentas tecnológicas, incluindo:
-
-C
-
-Programação Orientada a Objetos (POO)
-
-HTML e PHP
-
-Banco de Dados(MYSQL)
+Sou uma jovem entusiasta da tecnologia, com uma base sólida em programação e eletrônica, adquirida por meio de uma formação técnica abrangente. Durante minha jornada no Coltec, desenvolvi habilidades em diversas linguagens e ferramentas tecnológicas.
 
 Tenho uma paixão por resolver problemas complexos e transformar ideias em projetos concretos.
 
@@ -36,7 +28,9 @@ Entre em Contato 📞🌐📧
 
 GitHub: https://github.com/pamelaa777
 
-LinkedIn: https://www.linkedin.com/in/p%C3%A2mela-sant-ana-9046b5343/
+LinkedIn: https://www.linkedin.com/in/p%C3%A2mela-sant%E2%80%99-ana-2bb297346/
+
+Gmail: pamelaeduardasant@gmail.com
 
 Fique à vontade para entrar em contato. Estou ansiosa para conhecer novas oportunidades, colaborar em projetos inovadores e aprender com profissionais do mercado. Vamos criar algo extraordinário juntos!
 
